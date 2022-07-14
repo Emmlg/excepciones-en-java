@@ -1,0 +1,5 @@
+  -*-*-*-*- MENU -*-*-*-*-
+      1.- Conversión de base decimal a los demas sistemas 
+      2.-  ver historial
+      3.- Borrar historial
+      4.- Salir

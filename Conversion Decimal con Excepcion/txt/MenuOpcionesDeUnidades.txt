@@ -1,0 +1,5 @@
+  -------- ESCOGE LAS SIGUIENTES OPCIONES ---------
+         1.- Mostrar todas las unidades
+         2.- Conversion Binaria 
+         3.- Conversion Hexadecimal    
+         4.- Conversion Octal 

@@ -1,0 +1,4 @@
+
+El numero binario es: 1011010  
+El numero Octal es: 132  
+El numero Hexadecimal: 5A  

@@ -1,0 +1,6 @@
+           *-*-*-*-*-  Bienvenido/a   -*-*-*-*-*
+        Conversión de unidades  Mediante la realización del proyecto se pretende dar solución a la conversión 
+        entre unidades decimales a sus distintas equivalencias, tanto en binario, hexadecimal y octal, 
+        con el fin de sistematizar  y  ejemplificar los métodos mediante la elaboración del software,  
+       el cual cuente con los recursos necesarios para dar  soluciones a las conversiones de ejercicios planteados
+      con el fin de verificar resultados si así se requiere.
